@@ -1,3 +1,17 @@
-.titan{
-    background-color:lightcoral;
+.titan {
+  background-color: aquamarine;
+}
+.hero-section {
+  background-color: blue;
+}
+
+/*
+=================================================
+SECTIONS
+=================================================
+*/
+.presentation iframe {
+  width: 100%;
+  max-width: 856px;
+  height: 518px;
 }
