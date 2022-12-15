@@ -15,3 +15,7 @@ SECTIONS
   max-width: 856px;
   height: 518px;
 }
+.py-5 {
+  padding: top 200px;
+  padding-bottom: 200px;
+}
